@@ -16,6 +16,8 @@ The information below was supplied by the author on November 6, 2026 and has not
 | [FX Qidian](https://fxqidian.de5.net/sign-up?aff=ISaZ) | About $15 for referral registration and $3–5 daily. The author reports inexpensive GLM 5.3 Flash and DeepSeek V4 Flash; verify exact model names and prices. |
 | [Berf AI](https://ai.berf1.cn/sign-up?aff=Uq9b) | Credits in yuan. The author estimates about 50 million DeepSeek tokens from registration credits and 12 million daily. Actual usage depends on pricing and input/output mix. |
 | [VSLLM](https://vsllm.cc/register?aff=9A3D) | Another service in the directory. Check current bonuses and models on the site. |
+| [CM-API](https://api.chengmo.cc.cd/sign-up?aff=6c6z) | $15 bonus, according to the author. |
+| [Huan Cheng / HCNSEC](https://api.hcnsec.cn/sign-up?aff=AEH9) | $4,000 in API credits, according to the author. Model prices are high, but the author estimates about 20,000 DeepSeek V4.1 Flash requests or 15,000 GLM 5.3 Flash requests in groups supporting up to 125k tokens per request. Groups with higher token limits may also be available. These are estimates, not guaranteed quotas; check current prices and group limits. |
 
 Some services require GitHub authentication with an account at least **6 months old**. The author estimates this applies to roughly half of this list; check each site's requirements.
 
